@@ -43,7 +43,7 @@ describe('demo calculator tests', function(){
         //expect(result.getText()).toEqual('5');
         homepage.verifyResult('7');
 
-        browser.sleep(4000)
+        browser.sleep(2000)
 
 
     });
