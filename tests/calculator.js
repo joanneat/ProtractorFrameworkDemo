@@ -37,7 +37,7 @@ describe('demo calculator tests', function(){
         homepage.enterSecondNumber('3')
 
         //element(by.css('[ng-click="doAddition()"]')).click();
-        homepage.clickGo();
+        homepage.clickGo1();
 
         //let result = element(by.cssContainingText('.ng-binding', '5'));
         //expect(result.getText()).toEqual('5');
