@@ -25,7 +25,7 @@ describe('demo calculator tests', function(){
 
     });
 
-    it('addition test2', function(){
+    it('addition test case', function(){
 
         //browser.get('http://juliemr.github.io/protractor-demo/');
         homepage.get('http://juliemr.github.io/protractor-demo/');
@@ -34,7 +34,7 @@ describe('demo calculator tests', function(){
         homepage.enterFirstNumber('4');
 
         //element(by.model('second')).sendKeys('3');
-        homepage.enterSecondNumber('4')
+        homepage.enterSecondNumber('5')
 
         //element(by.css('[ng-click="doAddition()"]')).click();
         homepage.clickGo();
