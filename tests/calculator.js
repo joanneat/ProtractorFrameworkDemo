@@ -25,7 +25,7 @@ describe('demo calculator tests', function(){
 
     });
 
-    it('addition test case', function(){
+    it('subtraction test', function(){
 
         //browser.get('http://juliemr.github.io/protractor-demo/');
         homepage.get('http://juliemr.github.io/protractor-demo/');
