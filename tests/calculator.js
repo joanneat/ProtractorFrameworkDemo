@@ -11,7 +11,7 @@ describe('demo calculator tests', function(){
         homepage.enterFirstNumber('4');
 
         //element(by.model('second')).sendKeys('3');
-        homepage.enterSecondNumber('3')
+        homepage.enterSecondNumber('4')
 
         //element(by.css('[ng-click="doAddition()"]')).click();
         homepage.clickGo();
