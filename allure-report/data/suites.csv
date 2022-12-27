@@ -1,3 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Dec 19 15:08:12 IRKT 2022","Mon Dec 19 15:08:19 IRKT 2022","6930","","demo calculator tests","","demo calculator tests","subtraction test","subtraction test",""
-"passed","Mon Dec 19 15:08:05 IRKT 2022","Mon Dec 19 15:08:12 IRKT 2022","6928","","demo calculator tests","","demo calculator tests","addition test","addition test",""
+"passed","Tue Dec 27 13:44:29 IRKT 2022","Tue Dec 27 13:44:40 IRKT 2022","11461","","demo calculator tests","","demo calculator tests","addition test","addition test",""
+"failed","Wed Dec 21 16:52:34 IRKT 2022","Wed Dec 21 16:52:36 IRKT 2022","2480","","demo calculator tests","","demo calculator tests","addition test2","addition test2",""
+"failed","Wed Dec 21 17:01:53 IRKT 2022","Wed Dec 21 17:01:56 IRKT 2022","2507","","demo calculator tests","","demo calculator tests","subtraction test","subtraction test",""
+"failed","Wed Dec 21 16:59:34 IRKT 2022","Wed Dec 21 16:59:37 IRKT 2022","2443","","demo calculator tests","","demo calculator tests","addition test case","addition test case",""
